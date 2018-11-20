@@ -834,7 +834,7 @@ body {
 .cid-r9GZm9WkdA {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-r9GZm9WkdA .mbr-text {
   position: relative;
@@ -976,11 +976,11 @@ body {
 .cid-r9HtNmSh4K .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #000000;
+  background: #080808;
 }
 .cid-r9HtNmSh4K .navbar.opened {
   transition: all .3s;
-  background: #000000 !important;
+  background: #080808 !important;
 }
 .cid-r9HtNmSh4K .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -1068,7 +1068,7 @@ body {
   }
 }
 .cid-r9HtNmSh4K .navbar.navbar-short {
-  background: #000000 !important;
+  background: #080808 !important;
   min-height: 60px;
 }
 .cid-r9HtNmSh4K .navbar.navbar-short .navbar-logo img {
@@ -1107,7 +1107,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-r9HtNmSh4K .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #000000;
+  background: #080808;
 }
 .cid-r9HtNmSh4K .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1483,12 +1483,11 @@ body {
   z-index: 1;
 }
 .cid-r9WKXEkY3k {
-  padding-top: 0px;
-  padding-bottom: 0px;
   background: #ffffff;
 }
 .cid-r9WKXEkY3k .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 767px) {
   .cid-r9WKXEkY3k .video-block {
@@ -1496,12 +1495,11 @@ body {
   }
 }
 .cid-r9WM3jBAbV {
-  padding-top: 0px;
-  padding-bottom: 0px;
   background: #ffffff;
 }
 .cid-r9WM3jBAbV .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 767px) {
   .cid-r9WM3jBAbV .video-block {
@@ -1509,12 +1507,11 @@ body {
   }
 }
 .cid-r9WN4MlFQj {
-  padding-top: 0px;
-  padding-bottom: 0px;
   background: #ffffff;
 }
 .cid-r9WN4MlFQj .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 767px) {
   .cid-r9WN4MlFQj .video-block {
@@ -1522,15 +1519,26 @@ body {
   }
 }
 .cid-r9WOjDkE9c {
-  padding-top: 0px;
-  padding-bottom: 0px;
   background: #ffffff;
 }
 .cid-r9WOjDkE9c .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 767px) {
   .cid-r9WOjDkE9c .video-block {
+    width: 100% !important;
+  }
+}
+.cid-r9XHZuBW9f {
+  background: #ffffff;
+}
+.cid-r9XHZuBW9f .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 767px) {
+  .cid-r9XHZuBW9f .video-block {
     width: 100% !important;
   }
 }
