@@ -779,8 +779,8 @@ body {
 }
 .cid-r9GZxjPIVW {
   padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/htte-innen-bsp-1500x728.jpg");
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
 .cid-r9GZxjPIVW .content-block {
   text-align: center;
@@ -829,7 +829,7 @@ body {
   color: #ffffff;
 }
 .cid-r9GZxjPIVW .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-r9GZm9WkdA {
   padding-top: 45px;
@@ -869,7 +869,7 @@ body {
 .cid-r9GZhMCeXR {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #efefef;
+  background-color: #ffffff;
 }
 .cid-r9GZhMCeXR .counter-container {
   color: #444444;
@@ -896,8 +896,8 @@ body {
   margin: 5px 10px;
   line-height: 35px;
   transition: all .2s;
-  color: #000000;
-  background: #ffda73;
+  color: #ffffff;
+  background: #232323;
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -924,7 +924,7 @@ body {
 }
 .cid-r9Hq3x9gsz .text-content {
   padding: 2rem 0rem;
-  background-color: #f9e2af;
+  background-color: #ffffff;
 }
 .cid-r9Hq3x9gsz .mbr-section-btn {
   margin-left: -0.8rem;
@@ -1228,7 +1228,7 @@ body {
 }
 .cid-r9HwRnD0tI .text-content {
   padding: 2rem 0rem;
-  background-color: #f9e2af;
+  background-color: #ffffff;
 }
 .cid-r9HwRnD0tI .mbr-section-btn {
   margin-left: -0.8rem;
@@ -1263,7 +1263,7 @@ body {
 }
 .cid-r9WqLWWC3z .text-content {
   padding: 2rem 0rem;
-  background-color: #f9e2af;
+  background-color: #ffffff;
 }
 .cid-r9WqLWWC3z .mbr-section-btn {
   margin-left: -0.8rem;
